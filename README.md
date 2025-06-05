@@ -7,7 +7,6 @@ Welcome to the official Taskphase for 2025! This repository contains resources, 
 
 | Week | Topics |
 |------|------|
-
 | 1    | ML Basics, Linear & Logistic Regression |
 | 2    | OpenCV, Image Processing |
 | 3    | ROS2 Simulation |
